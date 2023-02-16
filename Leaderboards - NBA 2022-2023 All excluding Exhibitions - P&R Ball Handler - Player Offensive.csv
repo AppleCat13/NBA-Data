@@ -1,5 +1,4 @@
-sep=,
-#,Player,Team,%Time,Poss,Pts,PPP,FG Miss,FG Made,FG Att,FG%,eFG%,SSQ,PPS,SSM,2 FG Att,2 FG Made,2 FG Miss,2 FG%,3FG Att,3 FG Made,3 FG Miss,3 FG%,TO%,%FT,Score%,%SF
+Player,Team,%Time,Poss,Pts,PPP,FG Miss,FG Made,FG Att,FG%,eFG%,SSQ,PPS,SSM,2 FG Att,2 FG Made,2 FG Miss,2 FG%,3FG Att,3 FG Made,3 FG Miss,3 FG%,TO%,%FT,Score%,%SF
 1,"James Harden","Philadelphia 76ers",30.7,252,235,0.933,94,76,170,44.7,52.4,0.96,1.05,0.09,100,50,50,50,70,26,44,37.1,21.8,13.5,40.5,11.9
 2,"Stephen Curry","Golden State Warriors",30.5,289,342,1.183,114,116,230,50.4,62.6,0.97,1.25,0.28,114,60,54,52.6,116,56,60,48.3,13.1,10.7,47.4,9.7
 3,"LeBron James","Los Angeles Lakers",20.5,255,244,0.957,102,92,194,47.4,52.6,0.98,1.05,0.07,127,72,55,56.7,67,20,47,29.9,15.7,11.8,43.9,11.4
